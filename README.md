@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shinigami
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning about linear regression models
-- 💞️ I’m looking to collaborate on small ML projects
+- 👀 I’m interested in java based application development
+- 🌱 I’m currently learning JDBC, JSP & Servlets
+- 💞️ I’m looking to collaborate on small projects
 - 📫 You can to reach me at: indranil.0079@gmail.com
 
 <!---
