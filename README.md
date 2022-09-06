@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shinigami
+- 👋 Hi, I’m @Indranil
 - 👀 I’m interested in java based application development
 - 🌱 I’m currently learning JDBC, JSP & Servlets
 - 💞️ I’m looking to collaborate on small projects
